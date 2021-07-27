@@ -1,6 +1,6 @@
 ### How to Play?
 
-1. Execute `pong.out` or run `Python3 pong.py` 
+1. Execute `pong` or run `Python3 pong.py` 
 2. Select the no of points(5,10,20) and the Ball_speed(slow,medium,fast)
 3. Click on play button
 4. Press p to start the game
