@@ -3,8 +3,8 @@
 1. Execute `Python3 pong.py`
 2. Select the no of points(5,10,20) and the Ball_speed(slow,medium,fast)
 3. Click on play button
-4. Press ==p== to start the game
-5. If the game finishes, press ==r== to restart.
+4. Press p to start the game
+5. If the game finishes, press r to restart.
 
 ### Code Info:
 
