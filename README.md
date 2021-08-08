@@ -5,8 +5,8 @@
 3. Click on play button
 4. Press p to start the game
 5. If the game finishes, press r to restart.
-6. Player 1: Use ==w== / ==s== keys to move slider
-7. Player 2: Use ==Arrow up== / ==Arrow down== keys to move slider
+6. Player 1: Use `w` / `s` keys to move slider
+7. Player 2: Use `Arrow up` / `Arrow down` keys to move slider
 
 
 
